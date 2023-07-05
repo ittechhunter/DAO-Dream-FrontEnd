@@ -28,8 +28,8 @@ const navItems = [
         path: "/about",
     },
     {
-        name: "Documents",
-        path: "/documents",
+        name: "Smart-contact",
+        path: "/smart-contract",
     },
     {
         name: "Audit",

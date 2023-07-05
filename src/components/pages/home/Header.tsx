@@ -72,8 +72,8 @@ const navItems = [
         path: "/about",
     },
     {
-        name: "Documents",
-        path: "/documents",
+        name: "Smart-contract",
+        path: "/smart-contract",
     },
     {
         name: "Audit",
