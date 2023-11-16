@@ -81,7 +81,7 @@ const navItems = [
     },
     {
         name: "Instructions",
-        dropdown: true,
+        path:"/Instructions",
     },
 ];
 
